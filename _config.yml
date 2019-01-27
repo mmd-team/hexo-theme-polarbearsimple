@@ -58,7 +58,8 @@ theme:
 baidu_analytics:
 # Google Analytics
 google_analytics:
-
+# 神策分析
+sensors_analytics:
 # Duoshuo
 duoshuo_shortname:
 # Disqus

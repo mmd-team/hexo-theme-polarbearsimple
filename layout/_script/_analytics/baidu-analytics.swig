@@ -1,5 +1,5 @@
 {% if config.baidu_analytics %}
-  <script type="text/javascript">
+  <script id="baidu_analytics">
     var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
