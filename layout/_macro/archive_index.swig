@@ -1,5 +1,5 @@
 {% macro render() %}
-<div id="primary">
+<div id="primary" class="home">
   <section id="archive" class="archive">
 
     {% for post in page.posts %}
@@ -26,7 +26,7 @@
       </div>
     {% endfor %}
   </section>
- </div>
-
   {% include '../_partial/pagination.swig' %}
+</div>
+{% include "../_partial/widget.swig" %}
 {% endmacro %}
