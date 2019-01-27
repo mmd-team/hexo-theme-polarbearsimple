@@ -1,6 +1,6 @@
 {
-  "name": "hexo-theme-polarbear",
-  "version": "1.1",
+  "name": "hexo-theme-polarbearsimple",
+  "version": "1.0.0",
   "description": "A light theme base on Even, inspired by Giuem",
   "main": "index.js",
   "keywords": [
@@ -13,13 +13,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahonn/hexo-theme-polarbear.git"
+    "url": "git+https://github.com/mmd-team/hexo-theme-polarbearsimple.git"
   },
   "bugs": {
-    "url": "https://github.com/ahonn/hexo-theme-polarbear/issues"
+    "url": "https://github.com/mmd-team/hexo-theme-polarbearsimple/pulls"
   },
-  "homepage": "https://github.com/ahonn/hexo-theme-polarbear#readme",
+  "homepage": "https://github.com/mmd-team/hexo-theme-polarbearsimple/wiki",
   "devDependencies": {
-    "eslint": "^3.12.0"
+    "eslint": "^5.12.1"
   }
 }

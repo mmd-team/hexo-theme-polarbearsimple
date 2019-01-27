@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2012
+since: 2019
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -68,4 +68,4 @@ disqus_shortname:
 # ===========================================
 # Version
 # ===========================================
-version: 1.1
+version: 1.0.0
