@@ -60,6 +60,8 @@ baidu_analytics:
 google_analytics:
 # 神策分析
 sensors_analytics:
+# Google AdSense
+google_ad_sense:
 # Duoshuo
 duoshuo_shortname:
 # Disqus
