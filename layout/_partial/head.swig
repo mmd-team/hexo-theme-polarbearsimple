@@ -12,7 +12,7 @@
 
 {# Website favicon #}
 {% if theme.favicon %}
-  <link rel="shortcut icon" type="image/x-icon" href="{{ url_for(theme.favicon) }}?v={{ theme.version }}" />
+  <link rel="shortcut icon" type="image/png" href="{{ url_for(theme.favicon) }}?v={{ theme.version }}" />
 {% endif %}
 
 {# Canonical, good for google search engine #}
