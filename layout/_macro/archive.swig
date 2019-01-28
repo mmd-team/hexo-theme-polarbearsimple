@@ -1,5 +1,5 @@
 {% macro render() %}
-<div id="primary">
+<div id="primary" class="home">
   <section id="archive" class="archive">
     {% if not page.prev %}
       {% if page.tag %}
