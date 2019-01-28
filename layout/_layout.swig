@@ -14,7 +14,7 @@
         {% block content %}{% endblock %}
       </div>
 
-      <footer id="colophon">
+      <footer id="colophon" class="footer">
         {%- include '_partial/footer.swig' %}
       </footer>
 

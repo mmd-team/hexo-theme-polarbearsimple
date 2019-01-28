@@ -38,8 +38,8 @@ widget:
   Custom: false
 
 widget_custom:
-  title: 摊位招租
-  content: <a>wy0558@gmail.com</a>
+  title: 广告位招租
+  content: <b>wy0558@gmail.com</b>
 
 # ===========================================
 # Theme Settings
@@ -71,4 +71,4 @@ disqus_shortname:
 # ===========================================
 # Version
 # ===========================================
-version: 1.0.0
+version: 1.0.1
