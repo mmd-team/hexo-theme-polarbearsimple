@@ -20,8 +20,8 @@
       w[n].para = para;
     }
   })({
-    sdk_url: 'https://static.sensorsdata.cn/sdk/1.12.10/sensorsdata.min.js',
-    heatmap_url: 'https://static.sensorsdata.cn/sdk/1.12.10/heatmap.min.js',
+    sdk_url: 'https://static.sensorsdata.cn/sdk/1.12.18/sensorsdata.min.js',
+    heatmap_url: 'https://static.sensorsdata.cn/sdk/1.12.18/heatmap.min.js',
     name: 'sensors',
     server_url: '{{ config.sensors_analytics }}',
     heatmap:{}
