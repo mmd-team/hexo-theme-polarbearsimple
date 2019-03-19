@@ -1,9 +1,11 @@
 {% if config.google_adsense %}
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "{{ config.google_adsense }}",
-        enable_page_level_ads: true
-      });
-    </script>
+<!-- Global site tag (gtag.js) - Google Ads -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-{{ config.google_adsense }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-{{ config.google_adsense }}');
+</script>
 {% endif %}

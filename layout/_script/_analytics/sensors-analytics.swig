@@ -1,4 +1,5 @@
 {% if config.sensors_analytics %}
+<!-- Sensors Analytics -->
   <script>
   (function(para) {
     var p = para.sdk_url, n = para.name, w = window, d = document, s = 'script',x = null,y = null;

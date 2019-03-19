@@ -53,15 +53,16 @@ theme:
 # ===========================================
 # Third Party Services Settings
 # ===========================================
-
+# Google Ads
+google_adsense:
 # Baidu Analytics
 baidu_analytics:
 # Google Analytics
-google_analytics:
+# google_analytics:
 # 神策分析
 sensors_analytics:
 # Google AdSense
-google_ad_sense:
+#google_ad_sense:
 # Duoshuo
 duoshuo_shortname:
 # Disqus
@@ -71,4 +72,4 @@ disqus_shortname:
 # ===========================================
 # Version
 # ===========================================
-version: 1.0.1
+version: 1.0.2
